@@ -1,0 +1,49 @@
+.navbar-brand
+{
+    height: 100px;
+    width: 100px;
+    
+
+}
+.navbar-brand img{
+    height: 70px;
+    width: 200px;
+    margin-left: 20px;
+}
+.navbar-expand-lg .navbar-nav {
+
+    -ms-flex-direction: row;
+    flex-direction: row;
+    margin-left: 500px;
+    color: black;
+}
+.navbar-nav .nav-item .nav-link {
+    color: black;
+    -webkit-transition: .35s;
+    -o-transition: .35s;
+    transition: .35s;
+    font-weight: bold;
+    font-size: 18px;
+    /* border: 2px solid white; */
+
+}
+
+.navbar-nav .nav-item
+{
+    
+    margin-left: 20px;
+    
+}
+.hero-section
+{
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+.about-me{
+    
+    margin-left: 192px;
+    margin-top: 60px;
+
+}
+.hide-me[aria-expanded="true"] {display: none;}
